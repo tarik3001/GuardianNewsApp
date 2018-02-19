@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search Guardian</string>
+    <string name="api_key">23a6ee65-f55d-452f-a073-0bc71e36bb8b</string>
+    <string name="no_data_available">No Data To Display</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="search_title">Search Guardian</string>
+    <string name="search_hint">Search News</string>
+</resources>
